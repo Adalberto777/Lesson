@@ -11,8 +11,7 @@ iter //= 5 # iter = iter // 5
 iter %= 5 # iter = iter % 5
 iter **= 5 # iter = iter ** 5
 
-Управляющие конструкции
->, >=, <, <=, ==, !=, not, and, or
+Управляющие конструкции: >, >=, <, <=, ==, !=, not, and, or
 
 Range
 r = range(5) # range(0, 5)
