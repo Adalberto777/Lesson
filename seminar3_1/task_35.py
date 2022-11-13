@@ -3,6 +3,7 @@
 # Для работы с файлами используйте менеджер контекста
 import os
 os.system('cls||clear')
+
 def read_data(filename: str) -> list:
     with open(filename, "r", encoding = "utf-8") as data:
         a = data.read().split()
