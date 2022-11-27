@@ -20,7 +20,7 @@ def create(device = 1):
 
 
 
-def new_create(data ,device = 1):
+def new_create(data, device = 1):
     t, p, w = data
     style = 'style="font-size:30px;"'
     html = '<html>\n  <head></head>\n  <body>\n'
